@@ -11,4 +11,4 @@ To use this feature:
 
 Enjoy!
 
-![https://media.giphy.com/media/QlmysCrZMeZuo/giphy.gif]
+![](https://media.giphy.com/media/QlmysCrZMeZuo/giphy.gif)
