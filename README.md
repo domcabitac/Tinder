@@ -10,3 +10,5 @@ To use this feature:
 4. Watch Tinder swipe right for you
 
 Enjoy
+
+<a href="https://odditymall.com/includes/content/tinda-finger-automatic-tinder-swiping-robot-thumb.gif"></a>
