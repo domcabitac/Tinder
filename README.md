@@ -11,4 +11,4 @@ To use this feature:
 
 Enjoy!
 
-<iframe src="https://giphy.com/embed/QlmysCrZMeZuo" width="297" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/share-swipe-tinyhands-QlmysCrZMeZuo">via GIPHY</a></p>
+![https://media.giphy.com/media/QlmysCrZMeZuo/giphy.gif]
