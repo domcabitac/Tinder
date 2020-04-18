@@ -4,7 +4,7 @@ Auto swipe right for Tinder Web
 
 To use this feature:
 1. Go to https://tinder.com and log into your account
-2 Copy the code from the swipeRight.js
+2. Copy the code from the swipeRight.js
 ```javascript
 x = setInterval(
   function(){
